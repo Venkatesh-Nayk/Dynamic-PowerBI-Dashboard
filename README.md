@@ -1,7 +1,7 @@
 # Used_Cars Data Analysis 
 
 ## About Dataset:
-- Dataset includes 6000+ used cars with details such as make, model, manufacturer, price, production year, fuel type, selling states, and kilometers driven.
+- Dataset includes 2000+ used cars with details such as make, model, manufacturer, price, production year, fuel type, selling states, and kilometers driven.
 - Provides insights into the used car market, including popular models, manufacturers, and average prices in different states or regions.
 - Year of production and kilometers driven offer additional information on vehicle age and condition.
 - Fuel type data can help identify regional consumer preferences.
@@ -56,18 +56,17 @@ We evaluated our dashboard based on the following criteria:
   6. Use of appropriate background color to improve the visibility of visualizations.
 
 ## Conclusion:
-Our analysis of the used car sales dataset revealed several interesting insights that can be valuable for businesses operating in the used car market. Through the use of Power BI, we were able to transform and visualize the data in a way that allowed us to gain a deeper understanding of the market trends.
+- Our analysis of the used car sales dataset revealed several interesting insights that can be valuable for businesses operating in the used car market. Through the use of Power BI, we were     able to transform and visualize the data in a way that allowed us to gain a deeper understanding of the market trends.
+- Initially, the dataset consisted of over 2000+ data points. However, following our rigorous data cleaning process, we refined and retained over 900+ high-quality data points for analysis      and insights generation.
+- The insights gleaned from our analysis are as follows:
+  - The average highest price for a used car typically occurs around the 4-year mark, indicating a significant turning point in pricing trends.
+  - In terms of the distribution of used cars among cities, Ahmedabad boasts the highest percentage at 13.56%, closely followed by Hyderabad at 13.35%, suggesting these cities have robust         used car markets.
+  - When categorizing the dataset by both price range and fuel type, we found that out of the total 900+ car Data:
+    - 762 cars belong to the low-end category, suggesting a preference for more affordable options.
+    - 148 cars fall into the middle-end category, reflecting a moderate pricing segment.
+    - 36 cars are classified as high-end, indicating a smaller but significant market for premium used vehicles.
+- To conclude, our analysis of the used car sales dataset has uncovered key insights related to pricing trends, geographical distribution, and price range segmentation. These findings can       guide businesses in the used car market to make data-driven decisions and enhance their strategies for success.
 
-Firstly, we cleaned the data by removing null, blank and duplicate rows, and created a unique identifier for each row. We also changed the data types of the columns accordingly. Furthermore, we created two new columns - brand and car model - from the car_name column, which gave us a better understanding of the popular car brands and models in the market.
 
-We then analyzed the relationship between the age of a used car and its price, which allowed us to determine that the older a car is, the lower its price tends to be. We also created a visualization that showed the relationship between the age of a used car and its price, which provided a clear understanding of this relationship.
-
-Next, we created a bar chart that showed the top 10 brands based on the average price, with the city and count of cars in that city in the tooltip. This provided insight into the popular car brands in different cities, and how they compare in terms of pricing.
-
-We also created a pie chart that showed the percentage of used cars in different cities for cars whose price is greater than 10 Lakh. This provided valuable insights into the distribution of used cars in different cities and the popularity of the used car market in these cities.
-
-In addition, we created a calculated column to divide the cars into three categories - Low End, Middle End, and High End - based on their price. We then created a bar chart to show the number of cars in these categories, with fuel type as the legend. This provided insights into the popularity of different price categories and how they relate to fuel type.
-
-We then created a multi-row card visualization that showed the average, min, and max price of cars, the average kilometers driven by all the cars, and the total number of cars in the dataset. This provided a comprehensive overview of the used car market.
 
 
