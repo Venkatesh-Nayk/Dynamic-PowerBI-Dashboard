@@ -1,8 +1,12 @@
 # Used_Cars Data Analysis 
 
 ## About Dataset:
+- Dataset includes 6000+ used cars with details such as make, model, manufacturer, price, production year, fuel type, selling states, and kilometers driven.
+- Provides insights into the used car market, including popular models, manufacturers, and average prices in different states or regions.
+- Year of production and kilometers driven offer additional information on vehicle age and condition.
+- Fuel type data can help identify regional consumer preferences.
+- This dataset is a comprehensive tool for understanding and analyzing the dynamic used car market from various angles.
 
-The dataset contains information on 6000+ used cars including make, model, manufacturer, price, year of production, fuel type, states sold in, and kilometers driven. It provides valuable insights into the used car market, including popular models, manufacturer companies, and average prices in different states. The year of production and kilometers driven provide additional information on vehicle age and condition, while the fuel type can help identify consumer preferences in different regions. Overall, it is a comprehensive source of data for businesses and researchers seeking to understand and make data-driven decisions in the used car market.
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/122404051/235767211-297f9f4f-d41a-46ec-838f-13ea23817702.gif"  width="48" height="48"> Data Preparation:
@@ -19,11 +23,23 @@ To prepare the data, we performed the following steps using the Power Query Edit
 ## Data Analysis:
 We analyzed the data to gain insights into the used car market, including the following:
   1. Relationship between the age of a used car and its price.
+     
+     <img src="https://github.com/Venkatesh-Nayk/Dynamic-PowerBI-Dashboard/assets/129421850/528ef831-be55-42f3-9c40-406062a7cbe0" alt="Image Description" height="250" width="500">
+
   2. Top 10 brands based on the average price.
+     
+     <img src="https://github.com/Venkatesh-Nayk/Dynamic-PowerBI-Dashboard/assets/129421850/7483690e-1182-46ee-9848-6e304258ddc6" alt="Image Description" height="250" width="500">
+
   3. Percentage of used cars in different cities for cars whose price is greater than 10 Lakh.
+     
+     <img src="https://github.com/Venkatesh-Nayk/Dynamic-PowerBI-Dashboard/assets/129421850/126af0f8-f2c1-4c9c-a2ef-bc9be29705f6" alt="Image Description" height="250" width="500">
+
   4. Number of cars in low, middle, and high-end categories based on price and fuel type.
-  5. We used various visualizations, including a scatter plot, bar chart, pie chart, and multi-row card visualization, to present our findings.
-<br>
+     
+     <img src="https://github.com/Venkatesh-Nayk/Dynamic-PowerBI-Dashboard/assets/129421850/55f607aa-95cd-49b2-8732-24887553b89d" alt="Image Description" height="250" width="500">
+
+ 
+  <br>
 
 ## Dashboard
 
