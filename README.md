@@ -69,6 +69,11 @@ We evaluated our dashboard based on the following criteria:
     - 36 cars are classified as high-end, indicating a smaller but significant market for premium used vehicles.
 - To conclude, our analysis of the used car sales dataset has uncovered key insights related to pricing trends, geographical distribution, and price range segmentation. These findings can       guide businesses in the used car market to make data-driven decisions and enhance their strategies for success.
 
+## Challenges Faced:
+ - Used car data had inconsistencies, missing values, and data quality issues, thereby impacting the integrity of the raw dataset.
+ - Accurately determining the factors that affect pricing and demand for used cars was complex.
+ - Creating meaningful and insightful visualizations for  data was challenging. Choosing the right visualizations effectively to convey information was essential.
+
 
 
 
