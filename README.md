@@ -1,11 +1,13 @@
 # Used_Cars Data Analysis 
+# Aim
+This dataset is a comprehensive tool for understanding and analyzing the dynamic used car market from various angles.
+
 
 ## About Dataset:
 - Dataset includes 2000+ used cars with details such as make, model, manufacturer, price, production year, fuel type, selling states, and kilometers driven.
 - Provides insights into the used car market, including popular models, manufacturers, and average prices in different states or regions.
 - Year of production and kilometers driven offer additional information on vehicle age and condition.
 - Fuel type data can help identify regional consumer preferences.
-- This dataset is a comprehensive tool for understanding and analyzing the dynamic used car market from various angles.
 
 <br>
 
